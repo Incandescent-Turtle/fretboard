@@ -1,7 +1,7 @@
 # Fretboard Visualizer
 Unfinished.  
-The intent was to be able to select which notes you want to see on the neck, as well as being able to pick scales and chords to highlight all over the neck.
-<a href="https://github.com/Incandescent-Turtle/fretboard/raw/main/fretboard.jar">click to download runnable jar file even tho it basically does nothing</a>
+The intent was to be able to select which notes you want to see on the neck, as well as being able to pick scales and chords to highlight all over the neck.<br>
+<a href="https://github.com/Incandescent-Turtle/fretboard/raw/main/fretboard.jar">Click here to download runnable jar file even tho it basically does nothing</a>
 
 ---
 ## Capability 
